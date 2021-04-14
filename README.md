@@ -1,7 +1,7 @@
 ## <center>JS DOM</center>
   
 
-|COMANDO|COMO FOI USADA|FUNCIONALIDADE|
+|COMANDO|COMO FOI USADO|FUNCIONALIDADE|
 |---|---|---|
 |**addEventListener**|***const*.addEventListener( )**|Anexa um manipulador de eventos ao elemento, e a partir deste atribui suas ações; ***Ex:** click, uma function, etc;*|
 |**appendChild**|***const*.appendChild( )**|Anexa um nó como o último filho de um nó, seguindo o esquema de hierarquia do DOM;|
